@@ -10,7 +10,7 @@ ContactsApp is an Android app that manages a list of contacts. It allows users t
 - Call contacts directly from the app.
 - Displays contacts in a RecyclerView.
 
-## Screens
+## Activities
 
 1. **MainActivity**: Displays the list of contacts and allows swipe actions to delete or update contacts.
 2. **SaveContactsActivity**: Screen to add a new contact.
