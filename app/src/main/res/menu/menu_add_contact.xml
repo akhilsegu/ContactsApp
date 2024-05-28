@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_add_contacts"
+        android:icon="@drawable/contact_add_icon"
+        android:title="@string/add_contact"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_to_fragment"
+        android:icon="@drawable/baseline_airline_stops_24"
+        android:title="@string/fragment"
+        app:showAsAction="always"/>
+</menu>
